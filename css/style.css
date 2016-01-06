@@ -1,0 +1,77 @@
+body{
+ background:url("http://s8.postimg.org/64sqjjanp/sunset_mountain_landscapes_wallpaper_4.jpg") fixed center;
+background-size:cover;
+  text-align:center;
+}
+
+#title{
+  color:white;
+  font-family:Lobster;
+  font-size:4em;
+}
+
+#subTitle{
+  color:black;
+}
+
+#temperature{
+  margin-top:1%;
+  
+}
+
+h1{
+ font-family:Roboto;
+  margin-top:220px;
+  font-size:3em;
+  
+}
+
+h3{
+  font-family:Roboto;
+  font-size:1.8em;
+  padding:0;
+}
+#temperature div{
+ display: inline-block;
+  width:auto;
+  height:auto;
+  color:white;
+  margin:10px;
+  padding-bottom:30px;
+  padding-right:20px;
+  background-color:#7A6F76;
+  font-size:1.3em;
+  font-family:Roboto;
+  opacity:0.9;
+  border-radius:10px;
+}
+
+#weatherForecast div{
+   display: inline-block;
+  width:auto;
+  height:40px;
+  padding: 2%;
+ 
+  color:white;
+  margin-top:10px;
+  background-color:#31394A;
+  font-size:1.2em;
+  font-family:Roboto;
+  opacity:0.9;
+  border-radius:10px;
+  
+}
+
+#icon{
+  position:relative;
+  left:3.5%;
+  top:20px;
+  z-index:2;
+}
+
+#icon1{
+  position:relative;
+  left:3.5%;
+  top:20px;
+  z-index:2;
+}
