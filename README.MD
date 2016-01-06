@@ -1,7 +1,7 @@
 Local Weather App (Free Code Camp Zilpline )
 
 
-![Log](http://s7.postimg.org/qw6x82sm3/weather_App1.jpg)
+![Log](http://s17.postimg.org/8vg4iwbvj/Untitled.png)
 
 Project Link:
 http://codepen.io/ZeeMax/live/VePymN
