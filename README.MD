@@ -7,4 +7,4 @@ Project Link:
 http://codepen.io/ZeeMax/live/VePymN
 
 
-All projects at : http://codepen.io/ZeeMax/pens/public/
+All projects at : http://nairuzabulhul.esy.es/weather_app/index.html
